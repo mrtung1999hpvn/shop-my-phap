@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop-my-phap/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/shop-my-phap/static/js/main.ee0fd863.chunk.js",
+    "main.js.map": "/shop-my-phap/static/js/main.ee0fd863.chunk.js.map",
+    "runtime-main.js": "/shop-my-phap/static/js/runtime-main.0af25d6e.js",
+    "runtime-main.js.map": "/shop-my-phap/static/js/runtime-main.0af25d6e.js.map",
+    "static/js/2.40ab0efa.chunk.js": "/shop-my-phap/static/js/2.40ab0efa.chunk.js",
+    "static/js/2.40ab0efa.chunk.js.map": "/shop-my-phap/static/js/2.40ab0efa.chunk.js.map",
+    "index.html": "/shop-my-phap/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/shop-my-phap/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.40ab0efa.chunk.js.LICENSE.txt": "/shop-my-phap/static/js/2.40ab0efa.chunk.js.LICENSE.txt",
+    "static/media/anh-body-2.6333a2b7.jpg": "/shop-my-phap/static/media/anh-body-2.6333a2b7.jpg",
+    "static/media/anh-body.a554cd2a.jpg": "/shop-my-phap/static/media/anh-body.a554cd2a.jpg",
+    "static/media/anh-nhan-vien-1.1335647e.jpg": "/shop-my-phap/static/media/anh-nhan-vien-1.1335647e.jpg",
+    "static/media/final.2f43399c.jpg": "/shop-my-phap/static/media/final.2f43399c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af25d6e.js",
+    "static/js/2.40ab0efa.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ee0fd863.chunk.js"
+  ]
+}
